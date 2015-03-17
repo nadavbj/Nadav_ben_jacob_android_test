@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Nadav_ben_jacob_android_test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
